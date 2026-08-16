@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://yeonnam-nightlife-note.gangnam-night-zone.xyz/sitemap.xml
+Sitemap: https://yeonnam-nightlife-note.gangnam-night-zone.xyz/sitemap-pages.xml
